@@ -5,3 +5,5 @@ There are somemodule in here taken straight from odoo community, just as example
 
 Odoo SH Training
 May 09, 2025
+
+Deploy Key deleted
